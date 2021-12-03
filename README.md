@@ -1,6 +1,8 @@
 # d1g1t_UI_Assignment
 
-Steps to run the repo locally : 
+**Task # 2** : The game repo site https://store.steampowered.com/
+
+### Steps to run the repo locally : 
 - Clone the repo using your editor of choice :
   `git clone https://github.com/sania-dsouza/d1g1t_UI_Assignment.git`
   
@@ -12,4 +14,10 @@ Steps to run the repo locally :
 - Run `node ui_automation.js`
 
 - File _results.csv_ is created in the root of the project and is overwritten every time you run the previous step 
+
+### Description: 
+
+This project uses Puppetteer to automate the tasks on the given URL. 
+
+
 
