@@ -18,6 +18,7 @@
 ### Description: 
 
 This project uses Puppetteer to automate the tasks on the given URL. 
+A test result file is included in the repo. 
 
 
 
