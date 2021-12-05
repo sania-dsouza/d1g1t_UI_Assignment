@@ -100,7 +100,7 @@ const puppeteer = require('puppeteer');
         
 
         for(let g=0; g<games_num; g++) {
-            let csv_entry = top_sellers_name[g] + "; " + release_dates[g] + " " + prices[g] + ", " + game_cats[g];
+            let csv_entry = top_sellers_name[g] + "; " + release_dates[g] + "; " + prices[g] + "; " + game_cats[g];
             game_details.push(csv_entry);
         }
 
